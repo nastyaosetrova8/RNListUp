@@ -14,15 +14,22 @@
       "backgroundColor": "#1e085a"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nastyaosetrova.RNListUp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png"
-      }
+      },
+      "package": "com.nastyaosetrova.RNListUp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ee9c0471-66ec-4eba-ab52-3d1587e263e6"
+      }
     }
   }
 }
