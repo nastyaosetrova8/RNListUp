@@ -10,6 +10,4 @@ https://expo.dev/accounts/nastyaosetrova/projects/RNListUp/builds/25fe8550-e4f2-
 
 <img width="274" height="274" alt="Image" src="https://github.com/user-attachments/assets/7ee60412-ed0f-4ff3-a851-9def5b6ca583" />
 
-![Image](https://github.com/user-attachments/assets/b970fead-430a-4bb7-b6fd-61bfe2ec68a9)
-
 ![Demo](./assets/demoReadme/RNListUp.gif)
